@@ -1,4 +1,5 @@
 <img width="1436" height="584" alt="download" src="https://github.com/user-attachments/assets/eb48d6ec-141e-438c-936c-a33b3688d0e0" />
+  ![Top LASSO features](lasso_top_features.png)
 # 30-Day Hospital Readmission Prediction (Diabetes 130-US Hospitals)
 
 A proof-of-concept classifier that predicts whether a diabetic patient is readmitted within 30 days of discharge. This is a learning project, not a clinical tool.
